@@ -11,7 +11,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="slider_text text-center">
-                                <h3>Montana Resort</h3>
+                                <h3>Skifun Training Center</h3>
                                 <p>Unlock to enjoy the view of Martine</p>
                             </div>
                         </div>
@@ -23,7 +23,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="slider_text text-center">
-                                <h3>Life is Beautiful</h3>
+                                <h3>Skifun Training Center</h3>
                                 <p>Unlock to enjoy the view of Martine</p>
                             </div>
                         </div>
@@ -35,7 +35,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="slider_text text-center">
-                                <h3>Montana Resort</h3>
+                                <h3>Skifun Training Center</h3>
                                 <p>Unlock to enjoy the view of Martine</p>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="slider_text text-center">
-                                <h3>Life is Beautiful</h3>
+                                <h3>Skifun Training Center</h3>
                                 <p>Unlock to enjoy the view of Martine</p>
                             </div>
                         </div>

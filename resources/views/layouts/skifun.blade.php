@@ -47,7 +47,7 @@
                         <div class="col-xl-2 col-lg-2">
                             <div class="logo-img">
                                 <a href="index.html">
-                                    <img src="img/logo.png" alt="">
+                                    <img src="img/logo2.png" alt="" style="height:120px;">
                                 </a>
                             </div>
                         </div>
@@ -88,7 +88,7 @@
         @yield('content')
 
 
-//footer section
+<!-- //footer section -->
         <footer class="footer">
         <div class="footer_top">
             <div class="container">
