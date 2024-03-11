@@ -26,7 +26,14 @@
     <link rel="stylesheet" href="{{ asset('css/style.css')}}">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 </head>
-
+<style>
+    .active {
+    font-weight: bold; /* For example, making the font bold */
+    color: #007bff; /* For example, changing the text color to blue */
+    border-bottom: 2px solid #fff; /* White underline */
+    /* Add any other styles you want for the active state */
+}
+</style>
 <body>
         <div class="header-area ">
             <div id="sticky-header" class="main-header-area">
@@ -36,10 +43,14 @@
                             <div class="main-menu  d-none d-lg-block">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a class="active" href="index.html">home</a></li>
-                                        <li><a href="rooms.html">Services</a></li>
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
+                    <li class="nav-item {{ request()->routeIs('index') ? 'active' : '' }}">
+						<a class="nav-link" href="{{ route('index')}}">Home</a>
+					</li>                                        
+					<li class="nav-item {{ request()->routeIs('services') ? 'active' : '' }}">
+						<a class="nav-link" href="{{ route('services')}}">Services</a>
+					</li>                                        
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -108,7 +119,7 @@
                                 Reservation
                             </h3>
                             <p class="footer_text">+254 710 605 439 <br>
-                                reservation@montana.com</p>
+                               info@skifuntrainingcenter.com </p>
                         </div>
                     </div>
                     <div class="col-xl-2 col-md-6 col-lg-2">
@@ -118,15 +129,15 @@
                             </h3>
                             <ul>
                                 <li><a href="#">Home</a></li>
-                                <li><a href="#">Rooms</a></li>
+                                <li><a href="#">Services</a></li>
                                 <li><a href="#">About</a></li>
-                                <li><a href="#">News</a></li>
+                                <li><a href="#">Contact</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-xl-4 col-md-6 col-lg-4">
-                    <a href="index.html">
-                                    <img src="img/logo2.png" alt="" style="height:225px;">
+                    <a href="{{ route('index')}}">
+                                    <img src="img/logo2.png" alt="" style="height:225px; margin-left:30px;">
                                 </a>
                     </div>
                 </div>

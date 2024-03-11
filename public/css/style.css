@@ -407,13 +407,6 @@ h3 {
     color: #fff
 }
 
-.section_title span {
-    color: #009DFF;
-    font-size: 14px;
-    font-weight: 400;
-    margin-bottom: 15px;
-    display: block
-}
 
 .section_title h3 {
     font-size: 46px;
@@ -443,7 +436,7 @@ h3 {
 }
 
 .mb-100 {
-    margin-bottom: 100px
+    margin-bottom: 20px
 }
 
 @media (max-width: 767px) {
@@ -890,18 +883,18 @@ h3 {
 }
 
 .slider_bg_1 {
-    background-image: url(../img/banner/indoor0.jpg);
+    background-image: url(../img/banner/hom4.png);
 
 }
 
 .slider_bg_2 {
-    background-image: url(../img/banner/indoor0.jpg);
+    background-image: url(../img/banner/hom4.png);
 
 }
 
 .slider_area .single_slider {
     position: relative;
-    height: 120vh;
+    height: 98vh;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -1062,7 +1055,7 @@ h3 {
 }
 
 .about_bg_1 {
-    background-image: url(../img/banner/about_banner.png)
+    background-image: url(../img/banner/hom2.jpg)
 }
 
 .about_info_area {
@@ -1184,12 +1177,12 @@ h3 {
 
 @media (max-width: 767px) {
     .offers_area {
-        padding-bottom: 40px
+        padding-bottom: 20px
     }
 }
 
 .offers_area.padding_top {
-    padding-top: 200px
+    padding-top: 20px;
 }
 
 @media (max-width: 767px) {
@@ -1252,7 +1245,7 @@ h3 {
 }
 
 .offers_area .single_offers ul {
-    margin-top: 17px;
+    margin-top: 10px;
     margin-bottom: 30px
 }
 
@@ -1354,14 +1347,14 @@ h3 {
 }
 
 .features_room {
-    padding-top: 93px;
+    padding-top: 10px;
     display: block;
     overflow: hidden
 }
 
 @media (max-width: 767px) {
     .features_room {
-        padding-top: 40px
+        padding-top: 20px
     }
 }
 
@@ -1862,16 +1855,12 @@ h3 {
     color: #fff
 }
 
-.breadcam_bg {
-    background-image: url(../img/banner/bradcam.png)
-}
-
 .breadcam_bg_1 {
-    background-image: url(../img/banner/bradcam2.png)
+    background-image: url(../img/banner/001.jpg);
 }
 
-.breadcam_bg_2 {
-    background-image: url(../img/banner/bradcam3.png)
+.blur_background {
+    filter: blur(5px);
 }
 
 .bradcam_area {
@@ -1879,12 +1868,12 @@ h3 {
     background-size: cover;
     background-position: center center;
     text-align: center;
-    padding: 269px 0 159px 0
+    padding: 269px 0 159px 0;
 }
 
 @media (max-width: 767px) {
     .bradcam_area {
-        padding: 150px 0
+        padding: 150px 0;
     }
 }
 
@@ -1893,14 +1882,12 @@ h3 {
     color: #fff;
     font-weight: 400;
     margin-bottom: 0;
-    text-transform: capitalize
+    text-transform: capitalize;
+    /* Ensure text is not affected by the blur */
+    position: relative;
+    z-index: 1; /* Ensure text is above blurred background */
 }
 
-@media (max-width: 767px) {
-    .bradcam_area h3 {
-        font-size: 30px
-    }
-}
 
 .popup_box {
     background: #fff;
@@ -4713,3 +4700,4 @@ h6 {
     margin-right: 10px;
     font-size: 12px
 }
+

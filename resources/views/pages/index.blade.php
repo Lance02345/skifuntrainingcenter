@@ -11,8 +11,8 @@
         <div class="row">
             <div class="col-xl-12">
                 <div class="slider_text text-center">
-                <h3 style="font-size: 56px; font-weight: bold; font-family: Arial, sans-serif;">
-    <span style="color: #9FE2BF;">Ski</span>fun Training Center
+                <h3 style="color:#009DFF; font-size: 56px; font-weight: bold; font-family: Arial, sans-serif;">
+    <span>Ski</span>fun Training Center
 </h3>                    <p style = "font-size:20px; font-weight: bold;">Experience the largest indoor <br> winter facility in Kenya.</p>
                 </div>
             </div>
@@ -66,88 +66,6 @@
             </div>
         </div>
     </div>
-    <!-- about_area_end -->
-<!-- <style>
-    .single_offers .about_thumb img {
-    height: 300px; /* Adjust the height as needed */
-    width: 100%; /* Maintain aspect ratio */
-    object-fit: cover; /* Ensure the image covers the entire container */
-}
-</style>
-     offers_area_start -->
-    <!-- <div class="offers_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="section_title text-center mb-100">
-                        <span>Our Offers</span>
-                        <h3>Ongoing Offers</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-4 col-md-4">
-                    <div class="single_offers">
-                        <div class="about_thumb">
-                            <img src="img/offers/01.jpg" alt="">
-                        </div>
-                        <h3>Up to 35% savings on Club <br>
-                            rooms and Suites</h3>
-                        <ul>
-                            <li>Luxaries condition</li>
-                            <li>3 Adults & 2 Children size</li>
-                            <li>Sea view side</li>
-                        </ul>
-                        <a href="#" class="book_now">book now</a>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-4">
-                    <div class="single_offers">
-                        <div class="about_thumb">
-                            <img src="img/offers/02.webp" alt="">
-                        </div>
-                        <h3>Up to 35% savings on Club <br>
-                            rooms and Suites</h3>
-                        <ul>
-                            <li>Luxaries condition</li>
-                            <li>3 Adults & 2 Children size</li>
-                            <li>Sea view side</li>
-                        </ul>
-                        <a href="#" class="book_now">book now</a>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-4">
-                    <div class="single_offers">
-                        <div class="about_thumb">
-                            <img src="img/offers/03.jpg" alt="">
-                        </div>
-                        <h3>Up to 35% savings on Club <br>
-                            rooms and Suites</h3>
-                        <ul>
-                            <li>Luxaries condition</li>
-                            <li>3 Adults & 2 Children size</li>
-                            <li>Sea view side</li>
-                        </ul>
-                        <a href="#" class="book_now">book now</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>  -->
-    <!-- offers_area_end -->
-
-    <!-- video_area_start -->
-    <!-- <div class="video_area video_bg overlay">
-        <div class="video_area_inner text-center">
-            <span>Montana Sea View</span>
-            <h3>Relax and Enjoy your <br>
-                Vacation </h3>
-            <a href="https://www.youtube.com/watch?v=vLnPwxZdW4Y" class="video_btn popup-video">
-                <i class="fa fa-play"></i>
-            </a>
-        </div>
-    </div> -->
-    <!-- video_area_end -->
 
     <!-- about_area_start -->
     <div class="about_area">
@@ -178,76 +96,9 @@
         </div>
     </div>
     <!-- about_area_end -->
-<style>
-    .single_rooms .room_thumb img {
-    height: 400px; /* Adjust the height as needed */
-    width: 100%; /* Maintain aspect ratio */
-    object-fit: cover; /* Ensure the image covers the entire container */
-}
-</style>
-    <!-- features_room_startt -->
-    <div class="features_room">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="section_title text-center mb-100">
-                        <span>Featured</span>
-                        <h3>Our Services</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="rooms_here">
-            <div class="single_rooms">
-                <div class="room_thumb">
-                    <img src="img/rooms/indoor2.jpg" alt="">
-                    <div class="room_heading d-flex justify-content-between align-items-center">
-                        <div class="room_heading_inner">
-                            <span> $250/night</span>
-                            <h3 style="color:#89CFF0">Superior Room</h3>
-                        </div>
-                        <a href="#" class="line-button">book now</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single_rooms">
-                <div class="room_thumb">
-                    <img src="img/rooms/indoor5.png" alt="">
-                    <div class="room_heading d-flex justify-content-between align-items-center">
-                    <div class="room_heading_inner">
-                            <span>Per child up to 14 years.</span>
-                            <h3 style="color:#89CFF0">Ksh 1,200</h3>
-                        </div>                        
-                        <a href="#" class="line-button">book now</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single_rooms">
-                <div class="room_thumb">
-                    <img src="img/rooms/hero21.jpg" alt="">
-                    <div class="room_heading d-flex justify-content-between align-items-center">
-                    <div class="room_heading_inner">
-                            <span>For all ages group 15 years and older <br> for an hour inclusive of the skating boots. </span>
-                            <h3 style="color:#89CFF0">Ksh 1,500</h3>
-                        </div>    
-                        <a href="#" class="line-button">book now</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single_rooms">
-                <div class="room_thumb">
-                    <img src="img/rooms/02.webp" alt="">
-                    <div class="room_heading d-flex justify-content-between align-items-center">
-                        <div class="room_heading_inner">
-                        <span>Monthly rates per child/adult </span>
-                            <h3 style="color:#89CFF0">Ksh 23,000</h3>
-                        </div>
-                        <a href="#" class="line-button">book now</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
+
+
     <!-- features_room_end -->
 
     <!-- forQuery_start -->
@@ -275,10 +126,18 @@
     </div>
     <!-- forQuery_end-->
 
+
+     <style>
+        .single_instagram img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover; /* Ensure the image covers the entire container */
+}
+     </style>
     <!-- instragram_area_start -->
     <div class="instragram_area">
         <div class="single_instagram">
-            <img src="img/instragram/1.png" alt="">
+            <img src="img/instragram/ig001.jpg" alt="">
             <div class="ovrelay">
                 <a href="#">
                     <i class="fa fa-instagram"></i>
@@ -286,7 +145,7 @@
             </div>
         </div>
         <div class="single_instagram">
-            <img src="img/instragram/2.png" alt="">
+            <img src="img/instragram/ig0002.jpg" alt="">
             <div class="ovrelay">
                 <a href="#">
                     <i class="fa fa-instagram"></i>
@@ -294,7 +153,7 @@
             </div>
         </div>
         <div class="single_instagram">
-            <img src="img/instragram/3.png" alt="">
+            <img src="img/instragram/ig007.jpg" alt="">
             <div class="ovrelay">
                 <a href="#">
                     <i class="fa fa-instagram"></i>
@@ -302,7 +161,7 @@
             </div>
         </div>
         <div class="single_instagram">
-            <img src="img/instragram/4.png" alt="">
+            <img src="img/instragram/ig09.jpg" alt="">
             <div class="ovrelay">
                 <a href="#">
                     <i class="fa fa-instagram"></i>
@@ -310,7 +169,7 @@
             </div>
         </div>
         <div class="single_instagram">
-            <img src="img/instragram/5.png" alt="">
+            <img src="img/instragram/1g1.webp" alt="">
             <div class="ovrelay">
                 <a href="#">
                     <i class="fa fa-instagram"></i>
