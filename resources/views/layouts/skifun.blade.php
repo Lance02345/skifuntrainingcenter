@@ -52,8 +52,11 @@
 					<li class="nav-item {{ request()->routeIs('about') ? 'active' : '' }}">
 						<a class="nav-link" href="{{ route('about')}}">About</a>
 					</li> 
-                    <li><a href="contact.html">Contact</a></li>
-                                    </ul>
+					<li class="nav-item {{ request()->routeIs('contact') ? 'active' : '' }}">
+						<a class="nav-link" href="{{ route('contact')}}">Contact</a>
+					</li>
+                
+                </ul>
                                 </nav>
                             </div>
                         </div>
@@ -86,7 +89,7 @@
                                     </ul>
                                 </div>
                                 <div class="book_btn d-none d-lg-block">
-                                    <a class="popup-with-form" href="#test-form">Book a reservation</a>
+                                    <a class="popup-with-form" href="#test-form">Book reservation</a>
                                 </div>
                             </div>
                         </div>
@@ -112,7 +115,7 @@
                                 address
                             </h3>
                             <p class="footer_text">Konza Town, a 45 minutes drive from the CBD, 2.5 KM to Mombasa road and 25 minutes drive from JKIA.</p>
-                            <a href="#" class="line-button">Get Direction</a>
+                            <a href="{{ route('contact')}}"class="line-button">Get Direction</a>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 col-lg-3">
@@ -120,8 +123,10 @@
                             <h3 class="footer_title">
                                 Reservation
                             </h3>
-                            <p class="footer_text">+254 710 605 439 <br>
-                               info@skifuntrainingcenter.com </p>
+                            <p class="footer_text">+254 710 605 439 </p>
+                            <p class="footer_text">info@skifuntrainingcenter.com </p>
+                               <p class="footer_text">Monday - Thursday:- 9:00 am to 10:00pm <br>
+                               Friday - Sunday:- 8:00am to 11:00pm </p>
                         </div>
                     </div>
                     <div class="col-xl-2 col-md-6 col-lg-2">
@@ -130,10 +135,10 @@
                                 Navigation
                             </h3>
                             <ul>
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="{{ route('index')}}">Home</a></li>
+                                <li><a href="{{ route('services')}}">Services</a></li>
+                                <li><a href="{{ route('about')}}">About</a></li>
+                                <li><a href="{{ route('contact')}}">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -160,7 +165,30 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
             </div>
         </div>
     </footer>
+    <style>
+  p {
+    font-family: Arial, sans-serif;
+  }
+  .contact-info {
+    margin: 20px auto;
+    max-width: 400px;
+  }
+  .contact-info i {
+    margin-right: 10px;
+  }
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
+    <form id="test-form" class="white-popup-block mfp-hide">
+                <div class="popup_box ">
+                <h2>Contact Information</h2>
+  <div class="contact-info">
+    <p><i class="fas fa-phone"></i> Phone: <a href="tel:+254710605439">+254 710 605 439</a></p>
+    <p><i class="fab fa-whatsapp"></i> WhatsApp: <a href="https://wa.me/+254710605439">+254 710 605 439</a></p>
+    <p><i class="far fa-envelope"></i> Email: <a href="mailto:info@skifuntrainingcenter.com">info@skifuntrainingcenter.com</a></p>
+  </div>    
+                    </div>
+            </form>
     <!-- JS here -->
     <script src="js/vendor/modernizr-3.5.0.min.js"></script>
     <script src="js/vendor/jquery-1.12.4.min.js"></script>

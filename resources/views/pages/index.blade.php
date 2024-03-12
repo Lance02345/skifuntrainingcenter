@@ -50,7 +50,7 @@
                                 </h3>
                         </div>
                         <p>Plan your next vacation with us and experience the largest indoor winter facility. We specialized in indoor volant powder skis where we use modern technology to maximize your enjoyment on the deep, untracked snow.</p>
-                        <a href="#" class="line-button">Learn More</a>
+                        <a href="{{ route('services')}}" class="line-button">Learn More</a>
                     </div>
                 </div>
                 <div class="col-xl-7 col-lg-7">
@@ -89,7 +89,6 @@
                                 Delicious Food</h3>
                         </div>
                         <p style="font-family: 'Roboto', sans-serif;">Indulge in a culinary journey like no other as we proudly serve a fusion of Kenyan, American, and French dishes. Savor the vibrant flavors of Kenya, experience the comfort of American classics, and delight in the sophistication of French cuisine—all under one roof. Our diverse menu offers something for every palate, ensuring a memorable dining experience for you and your companions. Join us and embark on a gastronomic adventure filled with exquisite tastes and delightful surprises. Bon appétit! 🥂</p>
-                        <a href="#" class="line-button">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -115,7 +114,7 @@
                             </div>
                             <div class="col-xl-6 col-md-6">
                                 <div class="phone_num">
-                                    <a href="#" class="mobile_no">+254 710 605 439</a>
+                                    <a href="tel:+254710605439" class="mobile_no">+254 710 605 439</a>
                                 </div>
                             </div>
                         </div>
@@ -137,7 +136,7 @@
     <!-- instragram_area_start -->
     <div class="instragram_area">
         <div class="single_instagram">
-            <img src="img/instragram/ig001.jpg" alt="">
+            <img src="img/instragram/ih.webp" alt="">
             <div class="ovrelay">
                 <a href="#">
                     <i class="fa fa-instagram"></i>
@@ -153,7 +152,7 @@
             </div>
         </div>
         <div class="single_instagram">
-            <img src="img/instragram/ig007.jpg" alt="">
+            <img src="img/instragram/igggg.webp" alt="">
             <div class="ovrelay">
                 <a href="#">
                     <i class="fa fa-instagram"></i>

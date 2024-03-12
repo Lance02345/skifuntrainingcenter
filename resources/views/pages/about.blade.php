@@ -435,9 +435,9 @@
             </div>
             <div class="col-lg-6">
                 <h5 class="section-title ff-secondary text-start text-primary fw-normal">About Us</h5>
-                <h1 class="mb-4">Welcome to <i class="fa fa-utensils text-primary me-2"></i>Skifun</h1>
+                <h1 class="mb-4">Welcome to Skifun</h1>
                 <p class="mb-4">Plan your next vacation with us and experience the largest indoor winter facility. We specialized in indoor volant powder skis where we use modern technology to maximize your enjoyment on the deep, untracked snow.</p>
-                <h1 class="mb-4">The Gap & Solution <i class="fa fa-utensils text-primary me-2"></i></h1>
+                <h1 class="mb-4">The Gap & Solution </i></h1>
                 <p class="mb-4">Our past production is that we did try to provide our own snow in Limuru road but it lasted for 15 minutes due to our climate and it was visited by 200 clients in 5 months whom were both adult & children. The architectural designs was not fully supporting our services and its not our motive to harm the clients but wanting them to experience fun and enjoyment, that's why were opted to build our own using the right designs, we relocated to Konza Town area.</p> <br>
                 <p class="mb-4">There is a gap in the Sports and Entertainment industry in our country, where it is not taken with the seriousness  that it requires and also local tourists are looking for new ways of entertainment this making them to go outside the country to access them this lowering jobs opportunities.</p> <br>
                 <p class="mb-4">With the introduction of this facility we will be able to close this gap and take sports and recreation to another level especially the winter sport. By bring the mountain to where people are we will be able to make the activity easy to access and convenient to the market, this boosting local tourism and increasing job opportunities.</p> <br>
@@ -450,7 +450,7 @@
     <div class="container">
         <div class="row g-5 align-items-center">
         <div class="col-lg-6">
-        <h5 class="section-title ff-secondary text-start text-primary fw-normal">Why us</h5>
+        <h5 class="section-title ff-secondary text-start text-primary fw-normal" style="padding-bottom:15px;">Why us</h5>
                 <p class="mb-4">Kids will have the opportunity to move the competitive track, if in time they decide to.</p>
                 <p class="mb-4">Experience the benefits of being part of a team, making friends while playing the coolest game on the continents.</p>
                 <p class="mb-4">To enjoy the sport and have the opportunity to learn the basic skills of the game</p>
