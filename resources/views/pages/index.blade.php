@@ -11,29 +11,14 @@
         <div class="row">
             <div class="col-xl-12">
                 <div class="slider_text text-center">
-                <h3 style="color:#009DFF; font-size: 56px; font-weight: bold; font-family: Arial, sans-serif;">
-    <span>Ski</span>fun Training Center
+                <h3 style="font-size: 56px; font-weight: bold; font-family: Arial, sans-serif;">
+    <span  style="color: #9FE2BF;">Ski</span>fun Training Center
 </h3>                    <p style = "font-size:20px; font-weight: bold;">Experience the largest indoor <br> winter facility in Kenya.</p>
                 </div>
             </div>
         </div>
     </div>
 </div>
-            <div class="single_slider  d-flex align-items-center justify-content-center slider_bg_2">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-12">
-                            <div class="slider_text text-center">
-                            <div class="slider_text text-center">
-                <h3 style="font-size: 56px; font-weight: bold; font-family: Arial, sans-serif;">
-    <span style="color: #9FE2BF;">Ski</span>fun Training Center
-</h3>                    <p style = "font-size:20px; font-weight: bold;">Experience the largest indoor <br> winter facility in Kenya.</p>
-                </div>                  
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
     <!-- slider_area_end -->
@@ -109,7 +94,7 @@
                         <div class="row align-items-center justify-content-center">
                             <div class="col-xl-6 col-md-6">
                                 <div class="Query_text">
-                                    <p>For Reservation 0r Query?</p>
+                                    <p>For Reservation or Query?</p>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-md-6">

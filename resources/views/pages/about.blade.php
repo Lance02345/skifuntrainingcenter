@@ -479,15 +479,20 @@
                     <h1 class="mb-5">Meet The Team</h1>
                 </div>
                 <div class="row g-4">
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="team-item text-center rounded overflow-hidden">
-                            <div class="rounded-circle overflow-hidden m-4">
-                                <img class="img-fluid" src="img/cbc.jpg" alt="" style="height:240px;">
-                            </div>
-                            <h5 class="mb-0">Dominic Kagecha'</h5>
-                            <small>CEO</small>
-                        </div>
-                    </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="team-item text-center rounded overflow-hidden">
+        <div class="rounded-circle overflow-hidden m-4">
+            <img class="img-fluid" src="img/cbc.jpg" alt="" style="height:240px;">
+        </div>
+        <h5 class="mb-0">
+            <a href="https://www.linkedin.com/in/dominic-g-66748123b" target="_blank">
+                Dominic Kagecha
+                <i class="fab fa-linkedin" style="color: #0077B5; padding-left:20px;"></i>
+            </a>
+        </h5>
+        <small>CEO</small>
+    </div>
+</div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item text-center rounded overflow-hidden">
                             <div class="rounded-circle overflow-hidden m-4">
