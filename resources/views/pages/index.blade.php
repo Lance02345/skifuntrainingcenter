@@ -129,7 +129,7 @@
             </div>
         </div>
         <div class="single_instagram">
-            <img src="img/instragram/ig0002.jpg" alt="">
+            <img src="img/instragram/igskii.jpg" alt="">
             <div class="ovrelay">
                 <a href="#">
                     <i class="fa fa-instagram"></i>
@@ -153,7 +153,7 @@
             </div>
         </div>
         <div class="single_instagram">
-            <img src="img/instragram/1g1.webp" alt="">
+            <img src="img/instragram/ig003.jpg" alt="">
             <div class="ovrelay">
                 <a href="#">
                     <i class="fa fa-instagram"></i>
